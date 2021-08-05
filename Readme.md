@@ -2,6 +2,14 @@
 
 Okta Auth plugin for Verdaccio
 
+## Status
+
+WIP: Has not been tested. Fork it, improve it and give it a go.
+See https://github.com/hogarthww-labs/verdaccio-okta-auth/issues/1
+
+The installation guide below is a best guess on how to install and use the plugin, but perhaps additional 
+steps need to be made to register it so it can be referenced from the `config.yaml` file.
+
 ## Installation
 
 See [Verdaccio configuration](https://verdaccio.org/docs/en/configuration)
